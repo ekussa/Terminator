@@ -1,2 +1,2 @@
 # Terminator
-Terminate windows process faster using regex patterns
+Terminate multiple windows process faster using regex patterns
